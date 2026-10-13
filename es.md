@@ -14,7 +14,7 @@ En un iPhone compatible, permite las actividades en directo para el temporizador
 
 ### Gratis y acceso de por vida
 
-Hasta 15 minutos sin anuncios. Para una sesión más larga, un anuncio voluntario puede desbloquearla antes de la preparación. Nunca hay anuncios durante la meditación. Si no hay anuncio disponible, la sesión puede empezar gratis. Serein de por vida es una compra única, sin suscripción: todas las duraciones sin anuncios, dos escenarios, dos personajes y dos gongs adicionales. El precio previsto en Francia es de 9,99 €; Apple muestra el precio local. La oferta se está configurando; aún no se ha realizado el lanzamiento público.
+Hasta 15 minutos sin anuncios. Para una sesión más larga, un anuncio voluntario puede desbloquearla antes de la preparación. Nunca hay anuncios durante la meditación. Si no hay anuncio disponible, la sesión puede empezar gratis. Serein de por vida es una compra única, sin suscripción: todas las duraciones sin anuncios, dos escenarios, dos personajes y dos gongs adicionales. El precio previsto en Francia es de 9,99 €; Apple muestra el precio local. La disponibilidad de la app y de la compra depende de tu país o región.
 
 ### Restauración y recompensas
 
@@ -28,7 +28,7 @@ La política siguiente explica la recopilación y la eliminación. Ajustes → P
 
 ### Responsable y contacto
 
-Hugo Barbé — hugo.barbe.pro@gmail.com. Contacta para solicitar acceso, rectificación, oposición o eliminación. Tu identificador de datos aparece en la app.
+Hugo Barbé : hugo.barbe.pro@gmail.com. Contacta para solicitar acceso, rectificación, oposición o eliminación. Tu identificador de datos aparece en la app.
 
 ### Datos locales
 
