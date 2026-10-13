@@ -14,7 +14,7 @@ On a supported iPhone, allow Live Activities for the timer and, on iOS 26, the e
 
 ### Free and lifetime access
 
-Up to 15 minutes without ads. For a longer session, an optional ad can unlock the session before settling-in time. No ads during meditation. If an ad is unavailable, the session may start for free. Serein for life is a one-time purchase, with no subscription: all durations without ads, two extra scenes, two characters and two gongs. The planned French price is EUR9.99; Apple displays the local price. This offer is being configured; the public launch has not happened yet.
+Up to 15 minutes without ads. For a longer session, an optional ad can unlock the session before settling-in time. No ads during meditation. If an ad is unavailable, the session may start for free. Serein for life is a one-time purchase, with no subscription: all durations without ads, two extra scenes, two characters and two gongs. The planned French price is EUR9.99; Apple displays the local price. Availability of the app and purchase depends on your country or region.
 
 ### Restore and rewards
 
@@ -28,7 +28,7 @@ The policy below explains collection and deletion requests. Settings → Privacy
 
 ### Controller and contact
 
-Hugo Barbé — hugo.barbe.pro@gmail.com. Contact this address for access, correction, objection or deletion requests. Your data identifier is shown in the app.
+Hugo Barbé : hugo.barbe.pro@gmail.com. Contact this address for access, correction, objection or deletion requests. Your data identifier is shown in the app.
 
 ### Local data
 
