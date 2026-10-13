@@ -14,7 +14,7 @@ Sur iPhone compatible, autorisez les activités en direct pour le compteur et, s
 
 ### Gratuit et achat à vie
 
-Jusqu’à 15 minutes sans publicité. Au-delà, une annonce volontaire peut débloquer la séance avant le temps de préparation. Aucune annonce pendant la méditation. Si l’annonce est indisponible, la séance peut commencer gratuitement. Serein à vie est un achat unique, sans abonnement : toutes les durées sans annonces, deux décors, deux personnages et deux gongs supplémentaires. Le prix prévu en France est de 9,99 €, avec un prix local affiché par Apple. Offre en cours de configuration ; aucun lancement public n’a encore eu lieu.
+Jusqu’à 15 minutes sans publicité. Au-delà, une annonce volontaire peut débloquer la séance avant le temps de préparation. Aucune annonce pendant la méditation. Si l’annonce est indisponible, la séance peut commencer gratuitement. Serein à vie est un achat unique, sans abonnement : toutes les durées sans annonces, deux décors, deux personnages et deux gongs supplémentaires. Le prix prévu en France est de 9,99 €, avec un prix local affiché par Apple. La disponibilité de l’app et de l’achat dépend de votre pays ou région.
 
 ### Restauration et récompenses
 
@@ -28,7 +28,7 @@ La politique ci-dessous explique la collecte et les demandes de suppression. Ré
 
 ### Responsable et contact
 
-Hugo Barbé — hugo.barbe.pro@gmail.com. Pour demander l’accès, la rectification, l’opposition ou la suppression, utilisez cette adresse. Votre identifiant de données est disponible dans l’app.
+Hugo Barbé : hugo.barbe.pro@gmail.com. Pour demander l’accès, la rectification, l’opposition ou la suppression, utilisez cette adresse. Votre identifiant de données est disponible dans l’app.
 
 ### Fonctionnement local
 
